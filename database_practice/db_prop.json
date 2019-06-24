@@ -1,0 +1,9 @@
+{
+	"driver_name":"oracle.jdbc.driver.OracleDriver",
+	"conn_str":"jdbc:oracle:thin:@",
+	"schema_nm":"BOBDB",
+	"host_nm":"10.22.13.2",
+	"port":"1527",
+	"user_nm":"bobcard",
+	"pwd":"bcrd@212"
+}
